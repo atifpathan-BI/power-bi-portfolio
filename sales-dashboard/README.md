@@ -36,7 +36,7 @@ RFM-based customer segmentation (180 total customers, 55 Champions, 9 At Risk), 
 Power BI Desktop · Power Query · DAX · Data Modeling
 
 ## Screenshots
-![Executive Summary](screenshots/executive-summary.png)
-![Retail Performance](screenshots/retail-performance.png)
-![Product & Target Analysis](screenshots/product-target-analysis.png)
-![Customer Insights](screenshots/customer-insights.png)
+![Executive Summary](Executive%20Summary.png)
+![Retail Performance](Retail%20Performance%20-%20Copy.png)
+![Product & Target Analysis](Product%20&%20Target%20Analysis.png)
+![Customer Insights](Customer%20Instights.png)
